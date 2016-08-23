@@ -1,0 +1,17 @@
+{
+  "name": "karma-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "karma start config-karma.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "karma": "1.2.0",
+    "karma-chrome-launcher": "2.0.0",
+    "karma-qunit": "1.2.0",
+    "qunitjs": "2.0.1"
+  }
+}
