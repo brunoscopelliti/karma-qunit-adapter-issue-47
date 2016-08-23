@@ -1,6 +1,6 @@
 # karma-qunit-adapter-issue-47
 
-The purpose of this repo it's to demonstrate an issue I'm facing with `karma-qunit`.
+The purpose of this repo it's to demonstrate an [issue](https://github.com/karma-runner/karma-qunit/issues/47) I'm facing with `karma-qunit`.
 
 Steps:
 ---
