@@ -2,6 +2,11 @@
 
 The purpose of this repo it's to demonstrate an [issue](https://github.com/karma-runner/karma-qunit/issues/47) I'm facing with `karma-qunit`.
 
+```
+Update 30 Semptember, 2016
+Updating `karma-qunit` solves the issue.
+```
+
 Steps:
 ---
 
