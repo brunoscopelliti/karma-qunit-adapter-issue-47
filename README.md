@@ -4,7 +4,7 @@ The purpose of this repo it's to demonstrate an [issue](https://github.com/karma
 
 ```
 Update 30 Semptember, 2016
-Updating `karma-qunit` solves the issue.
+Updating `karma-qunit` to version 1.2.1 solves the issue.
 ```
 
 Steps:
